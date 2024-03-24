@@ -1,0 +1,14 @@
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\bin\Debug\net8.0\prog5.exe
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\bin\Debug\net8.0\prog5.deps.json
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\bin\Debug\net8.0\prog5.runtimeconfig.json
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\bin\Debug\net8.0\prog5.dll
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\bin\Debug\net8.0\prog5.pdb
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\prog5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\prog5.AssemblyInfoInputs.cache
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\prog5.AssemblyInfo.cs
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\prog5.csproj.CoreCompileInputs.cache
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\prog5.dll
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\refint\prog5.dll
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\prog5.pdb
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\prog5.genruntimeconfig.cache
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog5\obj\Debug\net8.0\ref\prog5.dll

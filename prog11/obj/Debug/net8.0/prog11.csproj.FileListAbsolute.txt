@@ -1,0 +1,14 @@
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\bin\Debug\net8.0\prog11.exe
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\bin\Debug\net8.0\prog11.deps.json
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\bin\Debug\net8.0\prog11.runtimeconfig.json
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\bin\Debug\net8.0\prog11.dll
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\bin\Debug\net8.0\prog11.pdb
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\prog11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\prog11.AssemblyInfoInputs.cache
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\prog11.AssemblyInfo.cs
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\prog11.csproj.CoreCompileInputs.cache
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\prog11.dll
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\refint\prog11.dll
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\prog11.pdb
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\prog11.genruntimeconfig.cache
+C:\Users\yashdeep sahu\OneDrive\Desktop\Programs\prog11\obj\Debug\net8.0\ref\prog11.dll
